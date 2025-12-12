@@ -1,2 +1,10 @@
-# my-web-tools
-Some websites currently in operation
+# My Web Tools
+A collection of simple, fast and useful web tools I've built.
+
+- https://soar2ai.com/
+- https://nan0banana.pro/
+- https://addborderstophotos.com/
+- https://circlecropimage.studio/
+- https://guessanswer.com/
+- https://playbricksbreaker.com/
+- https://automusic.ai/
