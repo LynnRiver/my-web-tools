@@ -12,6 +12,10 @@ This repository serves as a public directory of my online tools, experiments, an
 AI-powered tools to help launch ideas faster.  
 https://soar2ai.com/
 
+### 🚀 SoarViz
+Allows users to create videos from text prompts quickly and easily online.  
+https://www.soraviz.com/
+
 ### 🍌 Nan0Banana
 AI image generator for creative experiments.  
 https://nan0banana.pro/
